@@ -1,0 +1,7 @@
+C:\Users\caiom\Documents\Pratica_codigos_cs\EntradasSaidas\bin\Debug\EntradasSaidas.exe.config
+C:\Users\caiom\Documents\Pratica_codigos_cs\EntradasSaidas\bin\Debug\EntradasSaidas.exe
+C:\Users\caiom\Documents\Pratica_codigos_cs\EntradasSaidas\bin\Debug\EntradasSaidas.pdb
+C:\Users\caiom\Documents\Pratica_codigos_cs\EntradasSaidas\obj\Debug\EntradasSaidas.csproj.AssemblyReference.cache
+C:\Users\caiom\Documents\Pratica_codigos_cs\EntradasSaidas\obj\Debug\EntradasSaidas.csproj.CoreCompileInputs.cache
+C:\Users\caiom\Documents\Pratica_codigos_cs\EntradasSaidas\obj\Debug\EntradasSaidas.exe
+C:\Users\caiom\Documents\Pratica_codigos_cs\EntradasSaidas\obj\Debug\EntradasSaidas.pdb

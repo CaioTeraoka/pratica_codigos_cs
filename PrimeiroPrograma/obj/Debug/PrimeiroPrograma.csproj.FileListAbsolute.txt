@@ -1,0 +1,10 @@
+C:\Users\caiom\Documents\Pratica_codigos_cs\PrimeiroPrograma\bin\Debug\PrimeiroPrograma.exe.config
+C:\Users\caiom\Documents\Pratica_codigos_cs\PrimeiroPrograma\bin\Debug\PrimeiroPrograma.exe
+C:\Users\caiom\Documents\Pratica_codigos_cs\PrimeiroPrograma\bin\Debug\PrimeiroPrograma.pdb
+C:\Users\caiom\Documents\Pratica_codigos_cs\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.csproj.AssemblyReference.cache
+C:\Users\caiom\Documents\Pratica_codigos_cs\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.Properties.Resources.resources
+C:\Users\caiom\Documents\Pratica_codigos_cs\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.csproj.GenerateResource.cache
+C:\Users\caiom\Documents\Pratica_codigos_cs\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\caiom\Documents\Pratica_codigos_cs\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.exe
+C:\Users\caiom\Documents\Pratica_codigos_cs\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.pdb
+C:\Users\caiom\Documents\Pratica_codigos_cs\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.Form1.resources

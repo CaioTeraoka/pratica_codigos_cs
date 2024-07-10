@@ -1,0 +1,9 @@
+C:\Users\caiom\Documents\Pratica_codigos\hello_world\hello_world\bin\Debug\hello_world.exe.config
+C:\Users\caiom\Documents\Pratica_codigos\hello_world\hello_world\bin\Debug\hello_world.exe
+C:\Users\caiom\Documents\Pratica_codigos\hello_world\hello_world\bin\Debug\hello_world.pdb
+C:\Users\caiom\Documents\Pratica_codigos\hello_world\hello_world\obj\Debug\hello_world.csproj.AssemblyReference.cache
+C:\Users\caiom\Documents\Pratica_codigos\hello_world\hello_world\obj\Debug\hello_world.Properties.Resources.resources
+C:\Users\caiom\Documents\Pratica_codigos\hello_world\hello_world\obj\Debug\hello_world.csproj.GenerateResource.cache
+C:\Users\caiom\Documents\Pratica_codigos\hello_world\hello_world\obj\Debug\hello_world.csproj.CoreCompileInputs.cache
+C:\Users\caiom\Documents\Pratica_codigos\hello_world\hello_world\obj\Debug\hello_world.exe
+C:\Users\caiom\Documents\Pratica_codigos\hello_world\hello_world\obj\Debug\hello_world.pdb

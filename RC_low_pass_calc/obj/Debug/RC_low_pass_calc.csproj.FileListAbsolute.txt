@@ -1,0 +1,10 @@
+C:\Users\caiom\Documents\Pratica_codigos_cs\RC_low_pass_calc\bin\Debug\RC_low_pass_calc.exe.config
+C:\Users\caiom\Documents\Pratica_codigos_cs\RC_low_pass_calc\bin\Debug\RC_low_pass_calc.exe
+C:\Users\caiom\Documents\Pratica_codigos_cs\RC_low_pass_calc\bin\Debug\RC_low_pass_calc.pdb
+C:\Users\caiom\Documents\Pratica_codigos_cs\RC_low_pass_calc\obj\Debug\RC_low_pass_calc.csproj.AssemblyReference.cache
+C:\Users\caiom\Documents\Pratica_codigos_cs\RC_low_pass_calc\obj\Debug\RC_low_pass_calc.Form1.resources
+C:\Users\caiom\Documents\Pratica_codigos_cs\RC_low_pass_calc\obj\Debug\RC_low_pass_calc.Properties.Resources.resources
+C:\Users\caiom\Documents\Pratica_codigos_cs\RC_low_pass_calc\obj\Debug\RC_low_pass_calc.csproj.GenerateResource.cache
+C:\Users\caiom\Documents\Pratica_codigos_cs\RC_low_pass_calc\obj\Debug\RC_low_pass_calc.csproj.CoreCompileInputs.cache
+C:\Users\caiom\Documents\Pratica_codigos_cs\RC_low_pass_calc\obj\Debug\RC_low_pass_calc.exe
+C:\Users\caiom\Documents\Pratica_codigos_cs\RC_low_pass_calc\obj\Debug\RC_low_pass_calc.pdb
